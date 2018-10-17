@@ -1,0 +1,7 @@
+# LIST OF CONSTANTS
+
+MY_NAME = "Gordon"
+
+BIRTH_MONTH = "March"
+
+MY_HEIGHT = 182
